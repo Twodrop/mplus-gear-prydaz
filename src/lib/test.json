@@ -1,0 +1,5838 @@
+{
+	"cloth": [
+		{
+			"head": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_helm_cloth_oribosdungeon_c_01.jpg",
+					"location": "Mist of Tirna Scithe",
+					"name": "Cocoonsilk Cowl",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							32
+						],
+						[
+							"vers",
+							60
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "head"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_helm_cloth_oribosdungeon_c_01.jpg",
+					"location": "Plaguefall",
+					"name": "Depraved Physician's Mask",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							60
+						],
+						[
+							"mastery",
+							32
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "head"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_helm_cloth_oribosdungeon_c_01.jpg",
+					"location": "Sanguine Depths",
+					"name": "Cowl of the Devoted General",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							32
+						],
+						[
+							"mastery",
+							60
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "head"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_helm_cloth_oribosdungeon_c_01.jpg",
+					"location": "The Necrotic Wake",
+					"name": "Abominable Visage",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							58
+						],
+						[
+							"mastery",
+							34
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "head"
+				}
+			],
+			"shoulder": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_shoulder_cloth_oribosdungeon_c_01.jpg",
+					"location": "Mist of Tirna Scithe",
+					"name": "Ingra Maloch's Mantle",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							42
+						],
+						[
+							"vers",
+							27
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "shoulder"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_shoulder_cloth_oribosdungeon_c_01.jpg",
+					"location": "Sanguine Depths",
+					"name": "Castigator's Mantle",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"vers",
+							29
+						],
+						[
+							"mastery",
+							41
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "shoulder"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_shoulder_cloth_oribosdungeon_c_01.jpg",
+					"location": "The Necrotic Wake",
+					"name": "Reanimator's Mantle",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"haste",
+							42
+						],
+						[
+							"mastery",
+							27
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "shoulder"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_shoulder_cloth_oribosdungeon_c_01.jpg",
+					"location": "Theater of Pain",
+					"name": "Plague-Licked Amice",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"vers",
+							44
+						],
+						[
+							"mastery",
+							26
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "shoulder"
+				}
+			],
+			"chest": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_robe_cloth_oribosdungeon_c_01.jpg",
+					"location": "De Other Side",
+					"name": "Manastorm's Magnificent Threads",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							34
+						],
+						[
+							"vers",
+							58
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "chest"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_robe_cloth_oribosdungeon_c_01.jpg",
+					"location": "Halls of Atonement",
+					"name": "Sinlight Shroud",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							60
+						],
+						[
+							"haste",
+							32
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "chest"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_robe_cloth_oribosdungeon_c_01.jpg",
+					"location": "Spires of Ascension",
+					"name": "Sinister Requiem Vestments",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							34
+						],
+						[
+							"haste",
+							58
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "chest"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_robe_cloth_oribosdungeon_c_01.jpg",
+					"location": "Theater of Pain",
+					"name": "Soulsewn Vestments",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							32
+						],
+						[
+							"mastery",
+							60
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "chest"
+				}
+			],
+			"wrist": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_bracer_cloth_oribosdungeon_c_01.jpg",
+					"location": "Mist of Tirna Scithe",
+					"name": "Deathshackle Wristwraps",
+					"statList": [
+						[
+							"INTELLECT",
+							24
+						],
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"haste",
+							31
+						],
+						[
+							"vers",
+							22
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "wrist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_bracer_cloth_oribosdungeon_c_01.jpg",
+					"location": "Sanguine Depths",
+					"name": "Essence Surge Binders",
+					"statList": [
+						[
+							"INTELLECT",
+							24
+						],
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"vers",
+							32
+						],
+						[
+							"mastery",
+							20
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "wrist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_bracer_cloth_oribosdungeon_c_01.jpg",
+					"location": "The Necrotic Wake",
+					"name": "Necropolis Lord's Shackles",
+					"statList": [
+						[
+							"INTELLECT",
+							24
+						],
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"vers",
+							22
+						],
+						[
+							"mastery",
+							31
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "wrist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_bracer_cloth_oribosdungeon_c_01.jpg",
+					"location": "Theater of Pain",
+					"name": "Contaminated Gauze Wristwraps",
+					"statList": [
+						[
+							"INTELLECT",
+							24
+						],
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"crit",
+							32
+						],
+						[
+							"vers",
+							20
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "wrist"
+				}
+			],
+			"hands": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_glove_cloth_oribosdungeon_c_01.jpg",
+					"location": "Halls of Atonement",
+					"name": "Stonefiend Shaper's Mitts",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							41
+						],
+						[
+							"haste",
+							29
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "hands"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_glove_cloth_oribosdungeon_c_01.jpg",
+					"location": "Mist of Tirna Scithe",
+					"name": "Tricksprite Gloves",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							26
+						],
+						[
+							"haste",
+							44
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "hands"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_glove_cloth_oribosdungeon_c_01.jpg",
+					"location": "Plaguefall",
+					"name": "Mitts of Flawless Duplication",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"haste",
+							26
+						],
+						[
+							"vers",
+							44
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "hands"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_glove_cloth_oribosdungeon_c_01.jpg",
+					"location": "The Necrotic Wake",
+					"name": "Gory Surgeon's Gloves",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							24
+						],
+						[
+							"mastery",
+							45
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "hands"
+				}
+			],
+			"waist": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_belt_cloth_oribosdungeon_c_01.jpg",
+					"location": "De Other Side",
+					"name": "Sash of Exquisite Acquisitions",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"vers",
+							27
+						],
+						[
+							"mastery",
+							42
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "waist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_belt_cloth_oribosdungeon_c_01.jpg",
+					"location": "Halls of Atonement",
+					"name": "Cord of the Dark Word",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							44
+						],
+						[
+							"vers",
+							26
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "waist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_belt_cloth_oribosdungeon_c_01.jpg",
+					"location": "Spires of Ascension",
+					"name": "Kin-Tara's Baleful Cord",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"haste",
+							42
+						],
+						[
+							"vers",
+							27
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "waist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_belt_cloth_oribosdungeon_c_01.jpg",
+					"location": "Theater of Pain",
+					"name": "Fallen Empress's Cord",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"vers",
+							41
+						],
+						[
+							"mastery",
+							29
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "waist"
+				}
+			],
+			"legs": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_pant_cloth_oribosdungeon_c_01.jpg",
+					"location": "De Other Side",
+					"name": "Mueh'zala's Hexthread Sarong",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							54
+						],
+						[
+							"mastery",
+							38
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "legs"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_pant_cloth_oribosdungeon_c_01.jpg",
+					"location": "Plaguefall",
+					"name": "Leggings of the Erudite Scholar",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							36
+						],
+						[
+							"vers",
+							56
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "legs"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_pant_cloth_oribosdungeon_c_01.jpg",
+					"location": "Sanguine Depths",
+					"name": "Beryllia's Leggings of Endless Torment",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							58
+						],
+						[
+							"mastery",
+							34
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "legs"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_pant_cloth_oribosdungeon_c_01.jpg",
+					"location": "Spires of Ascension",
+					"name": "Purge Protocol Legwraps",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							32
+						],
+						[
+							"mastery",
+							60
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "legs"
+				}
+			],
+			"feet": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_boot_cloth_oribosdungeon_c_01.jpg",
+					"location": "De Other Side",
+					"name": "Windscale Moccasins",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							24
+						],
+						[
+							"vers",
+							45
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "feet"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_boot_cloth_oribosdungeon_c_01.jpg",
+					"location": "Halls of Atonement",
+					"name": "Slippers of Leavened Station",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							27
+						],
+						[
+							"haste",
+							42
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "feet"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_boot_cloth_oribosdungeon_c_01.jpg",
+					"location": "Plaguefall",
+					"name": "Stradama's Misplaced Slippers",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							29
+						],
+						[
+							"mastery",
+							41
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "feet"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_boot_cloth_oribosdungeon_c_01.jpg",
+					"location": "Spires of Ascension",
+					"name": "Dark Stride Footwraps",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							41
+						],
+						[
+							"haste",
+							29
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "feet"
+				}
+			]
+		}
+	],
+	"leather": [
+		{
+			"head": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_helm_leather_oribosdungeon_c_01.jpg",
+					"location": "Halls of Atonement",
+					"name": "Hood of Refracted Shadows",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							58
+						],
+						[
+							"mastery",
+							34
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "head"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_helm_leather_oribosdungeon_c_01.jpg",
+					"location": "Mist of Tirna Scithe",
+					"name": "Hood of the Hidden Path",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							60
+						],
+						[
+							"mastery",
+							32
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "head"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_helm_leather_oribosdungeon_c_01.jpg",
+					"location": "Plaguefall",
+					"name": "Digested Interrogator's Gaze",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							36
+						],
+						[
+							"mastery",
+							56
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "head"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_helm_leather_oribosdungeon_c_01.jpg",
+					"location": "Spires of Ascension",
+					"name": "Vicious Surge Faceguard",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							32
+						],
+						[
+							"vers",
+							60
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "head"
+				}
+			],
+			"shoulder": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_shoulder_leather_oribosdungeon_c_01.jpg",
+					"location": "De Other Side",
+					"name": "Far Traveler's Shoulderpads",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							41
+						],
+						[
+							"vers",
+							29
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "shoulder"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_shoulder_leather_oribosdungeon_c_01.jpg",
+					"location": "Plaguefall",
+					"name": "Malodorous Gristle-Sown Spaulders",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"vers",
+							44
+						],
+						[
+							"mastery",
+							26
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "shoulder"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_shoulder_leather_oribosdungeon_c_01.jpg",
+					"location": "Sanguine Depths",
+					"name": "Wicked Bladewing Pauldrons",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"haste",
+							44
+						],
+						[
+							"mastery",
+							26
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "shoulder"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_shoulder_leather_oribosdungeon_c_01.jpg",
+					"location": "The Necrotic Wake",
+					"name": "Undying Chill Shoulderpads",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"vers",
+							27
+						],
+						[
+							"mastery",
+							42
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "shoulder"
+				}
+			],
+			"chest": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_chest_leather_oribosdungeon_c_01.jpg",
+					"location": "Mist of Tirna Scithe",
+					"name": "Rainshadow Hauberk",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							38
+						],
+						[
+							"haste",
+							54
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "chest"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_chest_leather_oribosdungeon_c_01.jpg",
+					"location": "Sanguine Depths",
+					"name": "Anima-Splattered Hide",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							32
+						],
+						[
+							"vers",
+							60
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "chest"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_chest_leather_oribosdungeon_c_01.jpg",
+					"location": "The Necrotic Wake",
+					"name": "Freshly Embalmed Jerkin",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							38
+						],
+						[
+							"mastery",
+							54
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "chest"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_chest_leather_oribosdungeon_c_01.jpg",
+					"location": "Theater of Pain",
+					"name": "Vest of Concealed Secrets",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							58
+						],
+						[
+							"haste",
+							34
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "chest"
+				}
+			],
+			"wrist": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_bracer_leather_oribosdungeon_c_01.jpg",
+					"location": "Mist of Tirna Scithe",
+					"name": "Bands of the Undergrowth",
+					"statList": [
+						[
+							"INTELLECT",
+							24
+						],
+						[
+							"AGILITY",
+							24
+						],
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"crit",
+							32
+						],
+						[
+							"vers",
+							20
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "wrist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_bracer_leather_oribosdungeon_c_01.jpg",
+					"location": "Plaguefall",
+					"name": "Fastened Venombarb Binds",
+					"statList": [
+						[
+							"INTELLECT",
+							24
+						],
+						[
+							"AGILITY",
+							24
+						],
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"vers",
+							18
+						],
+						[
+							"mastery",
+							34
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "wrist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_bracer_leather_oribosdungeon_c_01.jpg",
+					"location": "Sanguine Depths",
+					"name": "Radiant Light Binders",
+					"statList": [
+						[
+							"INTELLECT",
+							24
+						],
+						[
+							"AGILITY",
+							24
+						],
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"vers",
+							32
+						],
+						[
+							"mastery",
+							20
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "wrist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_bracer_leather_oribosdungeon_c_01.jpg",
+					"location": "The Necrotic Wake",
+					"name": "Risen Monstrosity Cuffs",
+					"statList": [
+						[
+							"INTELLECT",
+							24
+						],
+						[
+							"AGILITY",
+							24
+						],
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"haste",
+							33
+						],
+						[
+							"vers",
+							19
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "wrist"
+				}
+			],
+			"hands": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_glove_leather_oribosdungeon_c_01.jpg",
+					"location": "De Other Side",
+					"name": "Rocket Chicken Handlers",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							26
+						],
+						[
+							"mastery",
+							44
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "hands"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_glove_leather_oribosdungeon_c_01.jpg",
+					"location": "Halls of Atonement",
+					"name": "Gloves of Haunting Fixation",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"haste",
+							27
+						],
+						[
+							"vers",
+							42
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "hands"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_glove_leather_oribosdungeon_c_01.jpg",
+					"location": "Plaguefall",
+					"name": "Gloves of Obscure Rituals",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							41
+						],
+						[
+							"haste",
+							29
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "hands"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_glove_leather_oribosdungeon_c_01.jpg",
+					"location": "Spires of Ascension",
+					"name": "Winged Hunters' Gloves",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							29
+						],
+						[
+							"haste",
+							41
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "hands"
+				}
+			],
+			"waist": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_belt_leather_oribosdungeon_c_01.jpg",
+					"location": "Halls of Atonement",
+					"name": "Waistcord of Dark Devotion",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"vers",
+							29
+						],
+						[
+							"mastery",
+							41
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "waist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_belt_leather_oribosdungeon_c_01.jpg",
+					"location": "Mist of Tirna Scithe",
+					"name": "Sapgorger Belt",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"haste",
+							44
+						],
+						[
+							"vers",
+							26
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "waist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_belt_leather_oribosdungeon_c_01.jpg",
+					"location": "Spires of Ascension",
+					"name": "Shadowhirl Waistwrap",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"vers",
+							42
+						],
+						[
+							"mastery",
+							27
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "waist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_belt_leather_oribosdungeon_c_01.jpg",
+					"location": "Theater of Pain",
+					"name": "Girdle of Shattered Dreams",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							42
+						],
+						[
+							"vers",
+							27
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "waist"
+				}
+			],
+			"legs": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_pant_leather_oribosdungeon_c_01.jpg",
+					"location": "De Other Side",
+					"name": "Soulfeather Breeches",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							60
+						],
+						[
+							"mastery",
+							32
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "legs"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_pant_leather_oribosdungeon_c_01.jpg",
+					"location": "Halls of Atonement",
+					"name": "Skyterror's Stonehide Leggings",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							32
+						],
+						[
+							"mastery",
+							60
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "legs"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_pant_leather_oribosdungeon_c_01.jpg",
+					"location": "Spires of Ascension",
+					"name": "Abyssal Disharmony Breeches",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							34
+						],
+						[
+							"vers",
+							58
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "legs"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_pant_leather_oribosdungeon_c_01.jpg",
+					"location": "Theater of Pain",
+					"name": "Fearless Challenger's Leggings",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							60
+						],
+						[
+							"mastery",
+							32
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "legs"
+				}
+			],
+			"feet": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_boot_leather_oribosdungeon_c_01.jpg",
+					"location": "De Other Side",
+					"name": "Primeval Soul's Ankleguards",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							27
+						],
+						[
+							"mastery",
+							42
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "feet"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_boot_leather_oribosdungeon_c_01.jpg",
+					"location": "Sanguine Depths",
+					"name": "Sinsoaked Waders",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							41
+						],
+						[
+							"haste",
+							29
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "feet"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_boot_leather_oribosdungeon_c_01.jpg",
+					"location": "The Necrotic Wake",
+					"name": "Viscera-Stitched Footpads",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							24
+						],
+						[
+							"vers",
+							45
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "feet"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_boot_leather_oribosdungeon_c_01.jpg",
+					"location": "Theater of Pain",
+					"name": "Vanquished Usurper's Footpads",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							29
+						],
+						[
+							"haste",
+							41
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "leather",
+					"type": "feet"
+				}
+			]
+		}
+	],
+	"mail": [
+		{
+			"head": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_helm_mail_oribosdungeon_c_01.jpg",
+					"location": "Halls of Atonement",
+					"name": "Nathrian Usurper's Mask",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							32
+						],
+						[
+							"vers",
+							60
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "head"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_helm_drustmask_d_01.jpg",
+					"location": "Mist of Tirna Scithe",
+					"name": "Soulthorn Visage",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							32
+						],
+						[
+							"mastery",
+							60
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "head"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_helm_mail_oribosdungeon_c_01.jpg",
+					"location": "The Necrotic Wake",
+					"name": "Rattling Deadeye Hood",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							60
+						],
+						[
+							"mastery",
+							32
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "head"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_helm_mail_oribosdungeon_c_01.jpg",
+					"location": "Theater of Pain",
+					"name": "Amphitheater Stalker's Hood",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							54
+						],
+						[
+							"mastery",
+							38
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "head"
+				}
+			],
+			"shoulder": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_shoulder_mail_oribosdungeon_c_01.jpg",
+					"location": "Halls of Atonement",
+					"name": "Mantle of Ephemeral Visages",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"vers",
+							26
+						],
+						[
+							"mastery",
+							44
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "shoulder"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_shoulder_mail_oribosdungeon_c_01.jpg",
+					"location": "Mist of Tirna Scithe",
+					"name": "Wintersnap Shoulderguards",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"haste",
+							44
+						],
+						[
+							"mastery",
+							26
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "shoulder"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_shoulder_mail_oribosdungeon_c_01.jpg",
+					"location": "Plaguefall",
+					"name": "Plagueborne Shoulderguards",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							41
+						],
+						[
+							"vers",
+							29
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "shoulder"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_shoulder_mail_oribosdungeon_c_01.jpg",
+					"location": "The Necrotic Wake",
+					"name": "Blightbone Spaulders",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"vers",
+							44
+						],
+						[
+							"mastery",
+							26
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "shoulder"
+				}
+			],
+			"chest": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_chest_mail_oribosdungeon_c_01.jpg",
+					"location": "De Other Side",
+					"name": "Harness of Twisted Whims",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							38
+						],
+						[
+							"haste",
+							54
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "chest"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_chest_mail_oribosdungeon_c_01.jpg",
+					"location": "Halls of Atonement",
+					"name": "Soaring Decimator's Hauberk",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							36
+						],
+						[
+							"mastery",
+							56
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "chest"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_chest_mail_oribosdungeon_c_01.jpg",
+					"location": "Spires of Ascension",
+					"name": "Forsworn Stalker's Hauberk",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							38
+						],
+						[
+							"vers",
+							54
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "chest"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_chest_mail_oribosdungeon_c_01.jpg",
+					"location": "Theater of Pain",
+					"name": "Triumphant Combatant's Chainmail",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							60
+						],
+						[
+							"haste",
+							32
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "chest"
+				}
+			],
+			"wrist": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_bracer_mail_oribosdungeon_c_01.jpg",
+					"location": "Mist of Tirna Scithe",
+					"name": "Hiveswarm Bracers",
+					"statList": [
+						[
+							"INTELLECT",
+							24
+						],
+						[
+							"AGILITY",
+							24
+						],
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"vers",
+							22
+						],
+						[
+							"mastery",
+							31
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "wrist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_bracer_mail_oribosdungeon_c_01.jpg",
+					"location": "Plaguefall",
+					"name": "Tortured Assistant's Bindings",
+					"statList": [
+						[
+							"INTELLECT",
+							24
+						],
+						[
+							"AGILITY",
+							24
+						],
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"vers",
+							34
+						],
+						[
+							"mastery",
+							18
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "wrist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_bracer_mail_oribosdungeon_c_01.jpg",
+					"location": "Sanguine Depths",
+					"name": "Shackles of Alluring Vitality",
+					"statList": [
+						[
+							"INTELLECT",
+							24
+						],
+						[
+							"AGILITY",
+							24
+						],
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"crit",
+							32
+						],
+						[
+							"vers",
+							20
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "wrist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_bracer_mail_oribosdungeon_c_01.jpg",
+					"location": "Spires of Ascension",
+					"name": "Fallen Paragon's Armguards",
+					"statList": [
+						[
+							"INTELLECT",
+							24
+						],
+						[
+							"AGILITY",
+							24
+						],
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"haste",
+							34
+						],
+						[
+							"vers",
+							18
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "wrist"
+				}
+			],
+			"hands": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_glove_mail_oribosdungeon_c_01.jpg",
+					"location": "De Other Side",
+					"name": "Hakkari Revenant's Grips",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							26
+						],
+						[
+							"haste",
+							44
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "hands"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_glove_mail_oribosdungeon_c_01.jpg",
+					"location": "Sanguine Depths",
+					"name": "Iron Spiked Handgrips",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							29
+						],
+						[
+							"mastery",
+							41
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "hands"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_glove_mail_oribosdungeon_c_01.jpg",
+					"location": "Spires of Ascension",
+					"name": "Absonant Construct's Handguards",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"haste",
+							26
+						],
+						[
+							"vers",
+							44
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "hands"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_glove_mail_oribosdungeon_c_01.jpg",
+					"location": "Theater of Pain",
+					"name": "Grips of Overwhelming Beatings",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							42
+						],
+						[
+							"haste",
+							27
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "hands"
+				}
+			],
+			"waist": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_belt_mail_oribosdungeon_c_01.jpg",
+					"location": "Mist of Tirna Scithe",
+					"name": "Clasp of Waning Shadow",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"vers",
+							42
+						],
+						[
+							"mastery",
+							27
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "waist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_belt_mail_oribosdungeon_c_01.jpg",
+					"location": "Plaguefall",
+					"name": "Belt of Wretched Manipulations",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							44
+						],
+						[
+							"vers",
+							26
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "waist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_belt_mail_oribosdungeon_c_01.jpg",
+					"location": "Sanguine Depths",
+					"name": "Executor's Prideful Girdle",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"haste",
+							45
+						],
+						[
+							"vers",
+							24
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "waist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_belt_mail_oribosdungeon_c_01.jpg",
+					"location": "Spires of Ascension",
+					"name": "Dark Praetorian's Clasp",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"vers",
+							27
+						],
+						[
+							"mastery",
+							42
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "waist"
+				}
+			],
+			"legs": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_pant_mail_oribosdungeon_c_01.jpg",
+					"location": "De Other Side",
+					"name": "Techno-Coil Legguards",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							32
+						],
+						[
+							"mastery",
+							60
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "legs"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_pant_mail_oribosdungeon_c_01.jpg",
+					"location": "Plaguefall",
+					"name": "Blightborne Chain Legguards",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							56
+						],
+						[
+							"mastery",
+							36
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "legs"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_pant_mail_oribosdungeon_c_01.jpg",
+					"location": "Sanguine Depths",
+					"name": "Wind Dancer's Legguards",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							58
+						],
+						[
+							"mastery",
+							34
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "legs"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_pant_mail_oribosdungeon_c_01.jpg",
+					"location": "The Necrotic Wake",
+					"name": "Lichbone Legguards",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"AGILITY",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							36
+						],
+						[
+							"vers",
+							56
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "legs"
+				}
+			],
+			"feet": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_boot_mail_oribosdungeon_c_01.jpg",
+					"location": "De Other Side",
+					"name": "Spatial Rift Striders",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							27
+						],
+						[
+							"haste",
+							42
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "feet"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_boot_mail_oribosdungeon_c_01.jpg",
+					"location": "Halls of Atonement",
+					"name": "Shardskin Sabatons",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							29
+						],
+						[
+							"mastery",
+							41
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "feet"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_boot_mail_oribosdungeon_c_01.jpg",
+					"location": "The Necrotic Wake",
+					"name": "Striders of Restless Malice",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							29
+						],
+						[
+							"vers",
+							41
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "feet"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_boot_mail_oribosdungeon_c_01.jpg",
+					"location": "Theater of Pain",
+					"name": "Boots of Shuddering Matter",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"AGILITY",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							44
+						],
+						[
+							"haste",
+							26
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "mail",
+					"type": "feet"
+				}
+			]
+		}
+	],
+	"plate": [
+		{
+			"head": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_helm.jpg",
+					"location": "Halls of Atonement",
+					"name": "Wing Commander's Helmet",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STRENGTH",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							36
+						],
+						[
+							"mastery",
+							56
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "head"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_helm_drustmask_d_01.jpg",
+					"location": "Mist of Tirna Scithe",
+					"name": "Wrathbark Greathelm",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STRENGTH",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							60
+						],
+						[
+							"mastery",
+							32
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "head"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_helm.jpg",
+					"location": "Plaguefall",
+					"name": "Plague Handler's Greathelm",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STRENGTH",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							60
+						],
+						[
+							"mastery",
+							32
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "head"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_helm.jpg",
+					"location": "The Necrotic Wake",
+					"name": "Darkfrost Helmet",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STRENGTH",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							38
+						],
+						[
+							"vers",
+							54
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "head"
+				}
+			],
+			"shoulder": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_shoulder.jpg",
+					"location": "Halls of Atonement",
+					"name": "Pauldrons of Unleashed Pride",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STRENGTH",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"vers",
+							44
+						],
+						[
+							"mastery",
+							26
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "shoulder"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_shoulder.jpg",
+					"location": "Mist of Tirna Scithe",
+					"name": "Prankster's Pauldrons",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STRENGTH",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"vers",
+							27
+						],
+						[
+							"mastery",
+							42
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "shoulder"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_shoulder.jpg",
+					"location": "The Necrotic Wake",
+					"name": "Vile Butcher's Pauldrons",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STRENGTH",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							45
+						],
+						[
+							"vers",
+							24
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "shoulder"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_shoulder.jpg",
+					"location": "Theater of Pain",
+					"name": "Unyielding Combatant's Pauldrons",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STRENGTH",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"haste",
+							45
+						],
+						[
+							"mastery",
+							24
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "shoulder"
+				}
+			],
+			"chest": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_chest.jpg",
+					"location": "De Other Side",
+					"name": "Breastplate of Fatal Contrivances",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STRENGTH",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							56
+						],
+						[
+							"haste",
+							36
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "chest"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_chest.jpg",
+					"location": "Halls of Atonement",
+					"name": "Breastplate of Otherworldly Influence",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STRENGTH",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							32
+						],
+						[
+							"haste",
+							60
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "chest"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_chest.jpg",
+					"location": "Spires of Ascension",
+					"name": "Breastplate of Brutal Dissonance",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STRENGTH",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							36
+						],
+						[
+							"mastery",
+							56
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "chest"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_chest.jpg",
+					"location": "Theater of Pain",
+					"name": "Abdominal Securing Chestguard",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STRENGTH",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							38
+						],
+						[
+							"vers",
+							54
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "chest"
+				}
+			],
+			"wrist": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_bracer.jpg",
+					"location": "De Other Side",
+					"name": "Reality-Shatter Vambraces",
+					"statList": [
+						[
+							"INTELLECT",
+							24
+						],
+						[
+							"STRENGTH",
+							24
+						],
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"crit",
+							31
+						],
+						[
+							"vers",
+							22
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "wrist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_bracer.jpg",
+					"location": "Sanguine Depths",
+					"name": "Vambraces of the Depraved Warden",
+					"statList": [
+						[
+							"INTELLECT",
+							24
+						],
+						[
+							"STRENGTH",
+							24
+						],
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"haste",
+							32
+						],
+						[
+							"vers",
+							20
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "wrist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_bracer.jpg",
+					"location": "Spires of Ascension",
+					"name": "Thunderous Echo Vambraces",
+					"statList": [
+						[
+							"INTELLECT",
+							24
+						],
+						[
+							"STRENGTH",
+							24
+						],
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"vers",
+							19
+						],
+						[
+							"mastery",
+							33
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "wrist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_bracer.jpg",
+					"location": "Theater of Pain",
+					"name": "Pit Fighter's Wristguards",
+					"statList": [
+						[
+							"INTELLECT",
+							24
+						],
+						[
+							"STRENGTH",
+							24
+						],
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"vers",
+							33
+						],
+						[
+							"mastery",
+							19
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "wrist"
+				}
+			],
+			"hands": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_glove.jpg",
+					"location": "Mist of Tirna Scithe",
+					"name": "Fogweaver Gauntlets",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STRENGTH",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							26
+						],
+						[
+							"mastery",
+							44
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "hands"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_glove.jpg",
+					"location": "Plaguefall",
+					"name": "Fleshfused Crushers",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STRENGTH",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"haste",
+							27
+						],
+						[
+							"vers",
+							42
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "hands"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_glove.jpg",
+					"location": "Sanguine Depths",
+					"name": "Guilewind Stone Talons",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STRENGTH",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							41
+						],
+						[
+							"haste",
+							29
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "hands"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_glove.jpg",
+					"location": "Spires of Ascension",
+					"name": "Distorted Construct's Gauntlets",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STRENGTH",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							29
+						],
+						[
+							"haste",
+							41
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "hands"
+				}
+			],
+			"waist": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_buckle.jpg",
+					"location": "De Other Side",
+					"name": "Girdle of the Soulflayer",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STRENGTH",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"haste",
+							44
+						],
+						[
+							"vers",
+							26
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "waist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_buckle.jpg",
+					"location": "Plaguefall",
+					"name": "Scarred Bloodbound Girdle",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STRENGTH",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"vers",
+							41
+						],
+						[
+							"mastery",
+							29
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "waist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_buckle.jpg",
+					"location": "Sanguine Depths",
+					"name": "Waistguard of Expurged Anguish",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STRENGTH",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							44
+						],
+						[
+							"vers",
+							26
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "waist"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_buckle.jpg",
+					"location": "The Necrotic Wake",
+					"name": "Fused Bone Greatbelt",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STRENGTH",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"vers",
+							27
+						],
+						[
+							"mastery",
+							42
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "waist"
+				}
+			],
+			"legs": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_pants.jpg",
+					"location": "Halls of Atonement",
+					"name": "Halkias's Towering Pillars",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STRENGTH",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							38
+						],
+						[
+							"vers",
+							54
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "legs"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_pants.jpg",
+					"location": "Mist of Tirna Scithe",
+					"name": "Gormshell Greaves",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STRENGTH",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							38
+						],
+						[
+							"mastery",
+							54
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "legs"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_pants.jpg",
+					"location": "The Necrotic Wake",
+					"name": "Legplates of Unholy Frenzy",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STRENGTH",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"crit",
+							58
+						],
+						[
+							"mastery",
+							34
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "legs"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_pants.jpg",
+					"location": "Theater of Pain",
+					"name": "Galvanized Oxxein Legguards",
+					"statList": [
+						[
+							"INTELLECT",
+							43
+						],
+						[
+							"STRENGTH",
+							43
+						],
+						[
+							"STAMINA",
+							70
+						],
+						[
+							"haste",
+							56
+						],
+						[
+							"mastery",
+							36
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "legs"
+				}
+			],
+			"feet": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_boots.jpg",
+					"location": "De Other Side",
+					"name": "Dynamo Doomstompers",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STRENGTH",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							45
+						],
+						[
+							"haste",
+							24
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "feet"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_boots.jpg",
+					"location": "Plaguefall",
+					"name": "Muckwallow Stompers",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STRENGTH",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							26
+						],
+						[
+							"haste",
+							44
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "feet"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_boots.jpg",
+					"location": "Sanguine Depths",
+					"name": "Sabatons of the Rushing Juggernaut",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STRENGTH",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							24
+						],
+						[
+							"vers",
+							45
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "feet"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_boots.jpg",
+					"location": "Spires of Ascension",
+					"name": "Warboots of Ruthless Conviction",
+					"statList": [
+						[
+							"INTELLECT",
+							32
+						],
+						[
+							"STRENGTH",
+							32
+						],
+						[
+							"STAMINA",
+							53
+						],
+						[
+							"crit",
+							24
+						],
+						[
+							"mastery",
+							45
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "plate",
+					"type": "feet"
+				}
+			]
+		}
+	],
+	"weapon": {
+		"str_2hand": [
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_sword_2h_oribosdungeon_c_01.jpg",
+				"location": "De Other Side",
+				"name": "Zin'khas, Blade of the Fallen God",
+				"statList": [
+					[
+						"STRENGTH",
+						43
+					],
+					[
+						"STAMINA",
+						70
+					],
+					[
+						"crit",
+						54
+					],
+					[
+						"mastery",
+						38
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "sword",
+				"type": "two-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_axe_2h_drustvar_b_01.jpg",
+				"location": "Mist of Tirna Scithe",
+				"name": "Drustlord's Greataxe",
+				"statList": [
+					[
+						"STRENGTH",
+						43
+					],
+					[
+						"STAMINA",
+						70
+					],
+					[
+						"haste",
+						58
+					],
+					[
+						"vers",
+						34
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "axe",
+				"type": "two-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_1h_oribosdungeon_c_01.jpg",
+				"location": "The Necrotic Wake",
+				"name": "Rimebinder's Runeblade",
+				"statList": [
+					[
+						"STRENGTH",
+						43
+					],
+					[
+						"STAMINA",
+						70
+					],
+					[
+						"haste",
+						60
+					],
+					[
+						"vers",
+						32
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "sword",
+				"type": "two-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_axe_2h_oribosdungeon_c_01.jpg",
+				"location": "Theater of Pain",
+				"name": "Dessia's Decimating Decapitator",
+				"statList": [
+					[
+						"STRENGTH",
+						43
+					],
+					[
+						"STAMINA",
+						70
+					],
+					[
+						"crit",
+						58
+					],
+					[
+						"mastery",
+						34
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "axe",
+				"type": "two-hand"
+			}
+		],
+		"ranged": [
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_crossbow_2h_bastionquest_b_01.jpg",
+				"location": "De Other Side",
+				"name": "Xy Cartel Crossbow",
+				"statList": [
+					[
+						"AGILITY",
+						43
+					],
+					[
+						"STAMINA",
+						70
+					],
+					[
+						"crit",
+						32
+					],
+					[
+						"mastery",
+						60
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "crossbow",
+				"type": "ranged"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_bow_1h_oribosdungeon_c_01.jpg",
+				"location": "Spires of Ascension",
+				"name": "The Philosopher",
+				"statList": [
+					[
+						"AGILITY",
+						43
+					],
+					[
+						"STAMINA",
+						70
+					],
+					[
+						"crit",
+						56
+					],
+					[
+						"haste",
+						36
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "bow",
+				"type": "ranged"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_firearm_2h_revendrethquest_b_01.jpg",
+				"location": "The Necrotic Wake",
+				"name": "Blight Belcher",
+				"statList": [
+					[
+						"AGILITY",
+						43
+					],
+					[
+						"STAMINA",
+						70
+					],
+					[
+						"vers",
+						58
+					],
+					[
+						"mastery",
+						34
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "gun",
+				"type": "ranged"
+			}
+		],
+		"agi_2hand": [
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_staff_2h_oribosdungeon_c_01.jpg",
+				"location": "De Other Side",
+				"name": "Collector's Pulse Staff",
+				"statList": [
+					[
+						"AGILITY",
+						43
+					],
+					[
+						"STAMINA",
+						70
+					],
+					[
+						"haste",
+						58
+					],
+					[
+						"vers",
+						34
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "staff",
+				"type": "two-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_polearm_2h_oribosdungeon_c_01.jpg",
+				"location": "Plaguefall",
+				"name": "Halberd of the Aranakk",
+				"statList": [
+					[
+						"AGILITY",
+						43
+					],
+					[
+						"STAMINA",
+						70
+					],
+					[
+						"crit",
+						36
+					],
+					[
+						"haste",
+						56
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "polearm",
+				"type": "two-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_polearm_2h_oribosdungeon_c_01.jpg",
+				"location": "Spires of Ascension",
+				"name": "Devos's Cacophonous Poleaxe",
+				"statList": [
+					[
+						"AGILITY",
+						43
+					],
+					[
+						"STAMINA",
+						70
+					],
+					[
+						"vers",
+						38
+					],
+					[
+						"mastery",
+						54
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "polearm",
+				"type": "two-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_staff_2h_oribosdungeon_c_01.jpg",
+				"location": "Spires of Ascension",
+				"name": "Quarterstaff of Discordant Ethic",
+				"statList": [
+					[
+						"AGILITY",
+						43
+					],
+					[
+						"STAMINA",
+						70
+					],
+					[
+						"crit",
+						56
+					],
+					[
+						"mastery",
+						36
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "staff",
+				"type": "two-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_polearm_2h_oribosdungeon_c_01.jpg",
+				"location": "Theater of Pain",
+				"name": "Xav's Pike of Authority",
+				"statList": [
+					[
+						"AGILITY",
+						43
+					],
+					[
+						"STAMINA",
+						70
+					],
+					[
+						"haste",
+						32
+					],
+					[
+						"vers",
+						60
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "polearm",
+				"type": "two-hand"
+			}
+		],
+		"int_2hand": [
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_staff_2h_oribosdungeon_c_01.jpg",
+				"location": "De Other Side",
+				"name": "Whizblast Walking Stick",
+				"statList": [
+					[
+						"INTELLECT",
+						192
+					],
+					[
+						"STAMINA",
+						70
+					],
+					[
+						"vers",
+						36
+					],
+					[
+						"mastery",
+						56
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "staff",
+				"type": "two-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_staff_2h_oribosdungeon_c_01.jpg",
+				"location": "Halls of Atonement",
+				"name": "Nathrian Ferula",
+				"statList": [
+					[
+						"INTELLECT",
+						192
+					],
+					[
+						"STAMINA",
+						70
+					],
+					[
+						"crit",
+						38
+					],
+					[
+						"haste",
+						54
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "staff",
+				"type": "two-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_staff_2h_oribosdungeon_c_01.jpg",
+				"location": "Mist of Tirna Scithe",
+				"name": "Lakali's Spire of Knowledge",
+				"statList": [
+					[
+						"INTELLECT",
+						192
+					],
+					[
+						"STAMINA",
+						70
+					],
+					[
+						"vers",
+						60
+					],
+					[
+						"mastery",
+						32
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "staff",
+				"type": "two-hand"
+			}
+		],
+		"agi_dagger": [
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_knife_1h_oribosdungeon_c_01.jpg",
+				"location": "Mist of Tirna Scithe",
+				"name": "Tanglewood Thorn",
+				"statList": [
+					[
+						"AGILITY",
+						22
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"haste",
+						29
+					],
+					[
+						"vers",
+						17
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "dagger",
+				"type": "one-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_knife_1h_oribosdungeon_c_01.jpg",
+				"location": "Plaguefall",
+				"name": "Domina's Oozing Shiv",
+				"statList": [
+					[
+						"AGILITY",
+						22
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"crit",
+						29
+					],
+					[
+						"mastery",
+						17
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "dagger",
+				"type": "one-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_knife_1h_oribosdungeon_c_01.jpg",
+				"location": "Sanguine Depths",
+				"name": "Voracious Gorger Spine",
+				"statList": [
+					[
+						"AGILITY",
+						22
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"haste",
+						19
+					],
+					[
+						"vers",
+						27
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "dagger",
+				"type": "one-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_knife_1h_oribosdungeon_c_01.jpg",
+				"location": "The Necrotic Wake",
+				"name": "Stitchflesh's Scalpel",
+				"statList": [
+					[
+						"AGILITY",
+						22
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"crit",
+						18
+					],
+					[
+						"mastery",
+						28
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "dagger",
+				"type": "one-hand"
+			}
+		],
+		"str_1hand": [
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_mace_1h_oribosdungeon_c_02.jpg",
+				"location": "De Other Side",
+				"name": "Supercollider",
+				"statList": [
+					[
+						"STRENGTH",
+						22
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"crit",
+						28
+					],
+					[
+						"mastery",
+						18
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "mace",
+				"type": "one-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_axe_1h_oribosdungeon_c_01.jpg",
+				"location": "Mist of Tirna Scithe",
+				"name": "Axe of the Deadgrove",
+				"statList": [
+					[
+						"STRENGTH",
+						22
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"haste",
+						18
+					],
+					[
+						"vers",
+						28
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "axe",
+				"type": "one-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_mace_1h_oribosdungeon_c_02.jpg",
+				"location": "Plaguefall",
+				"name": "Sophisticated Bonecracker",
+				"statList": [
+					[
+						"STRENGTH",
+						22
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"haste",
+						16
+					],
+					[
+						"vers",
+						30
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "mace",
+				"type": "one-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_mace_1h_bastionquest_b_02.jpg",
+				"location": "Sanguine Depths",
+				"name": "Sinsmasher",
+				"statList": [
+					[
+						"STRENGTH",
+						22
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"crit",
+						18
+					],
+					[
+						"mastery",
+						28
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "mace",
+				"type": "one-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_mace_1h_oribosdungeon_c_02.jpg",
+				"location": "The Necrotic Wake",
+				"name": "Engorged Worm Smasher",
+				"statList": [
+					[
+						"STRENGTH",
+						22
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"haste",
+						30
+					],
+					[
+						"vers",
+						16
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "mace",
+				"type": "one-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_axe_1h_oribosdungeon_c_01.jpg",
+				"location": "Theater of Pain",
+				"name": "Gorestained Cleaver",
+				"statList": [
+					[
+						"STRENGTH",
+						22
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"crit",
+						18
+					],
+					[
+						"mastery",
+						28
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "axe",
+				"type": "one-hand"
+			}
+		],
+		"agi_1hand": [
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_1h_oribosdungeon_c_01.jpg",
+				"location": "De Other Side",
+				"name": "Bloodspiller",
+				"statList": [
+					[
+						"AGILITY",
+						22
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"crit",
+						27
+					],
+					[
+						"vers",
+						19
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "sword",
+				"type": "one-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_mace_1h_bastionquest_b_02.jpg",
+				"location": "Halls of Atonement",
+				"name": "Stoneguardian's Morningstar",
+				"statList": [
+					[
+						"AGILITY",
+						22
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"crit",
+						17
+					],
+					[
+						"mastery",
+						29
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "mace",
+				"type": "one-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_1h_oribosdungeon_c_01.jpg",
+				"location": "Plaguefall",
+				"name": "Poxstorm, Longsword of Pestilence",
+				"statList": [
+					[
+						"AGILITY",
+						22
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"haste",
+						28
+					],
+					[
+						"mastery",
+						18
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "sword",
+				"type": "one-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_axe_1h_oribosdungeon_c_01.jpg",
+				"location": "Sanguine Depths",
+				"name": "Stone General's Edge",
+				"statList": [
+					[
+						"AGILITY",
+						22
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"haste",
+						29
+					],
+					[
+						"vers",
+						17
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "axe",
+				"type": "one-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_axe_1h_oribosdungeon_c_01.jpg",
+				"location": "Spires of Ascension",
+				"name": "Penitent Edge",
+				"statList": [
+					[
+						"AGILITY",
+						22
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"crit",
+						29
+					],
+					[
+						"mastery",
+						17
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "axe",
+				"type": "one-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_mace_1h_oribosdungeon_c_02.jpg",
+				"location": "Theater of Pain",
+				"name": "Gorebound Predator's Gavel",
+				"statList": [
+					[
+						"AGILITY",
+						22
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"haste",
+						19
+					],
+					[
+						"vers",
+						27
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "mace",
+				"type": "one-hand"
+			}
+		],
+		"int_mace": [
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_mace_1h_oribosdungeon_c_01.jpg",
+				"location": "Mist of Tirna Scithe",
+				"name": "Scithewood Scepter",
+				"statList": [
+					[
+						"INTELLECT",
+						126
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"crit",
+						16
+					],
+					[
+						"mastery",
+						30
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "mace",
+				"type": "one-hand"
+			}
+		],
+		"int_dagger": [
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_knife_1h_oribosdungeon_c_02.jpg",
+				"location": "Plaguefall",
+				"name": "Surgical Pustule Extractor",
+				"statList": [
+					[
+						"INTELLECT",
+						126
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"crit",
+						29
+					],
+					[
+						"mastery",
+						17
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "dagger",
+				"type": "one-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_knife_1h_oribosdungeon_c_02.jpg",
+				"location": "Theater of Pain",
+				"name": "Fleshcrafter's Knife",
+				"statList": [
+					[
+						"INTELLECT",
+						126
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"haste",
+						27
+					],
+					[
+						"vers",
+						19
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "dagger",
+				"type": "one-hand"
+			}
+		],
+		"int_sword": [
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_1h_oribosdungeon_c_01.jpg",
+				"location": "Sanguine Depths",
+				"name": "Kaal's Gloomblade",
+				"statList": [
+					[
+						"INTELLECT",
+						126
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"vers",
+						30
+					],
+					[
+						"mastery",
+						16
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "sword",
+				"type": "one-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_1h_oribosdungeon_c_01.jpg",
+				"location": "The Necrotic Wake",
+				"name": "Amarth's Spellblade",
+				"statList": [
+					[
+						"INTELLECT",
+						126
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"crit",
+						27
+					],
+					[
+						"haste",
+						19
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "sword",
+				"type": "one-hand"
+			}
+		],
+		"warglaives": [
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_glaive_1h_oribosdungeon_c_01.jpg",
+				"location": "Sanguine Depths",
+				"name": "Hungering Devourer's Twinblade",
+				"statList": [
+					[
+						"AGILITY",
+						22
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"crit",
+						27
+					],
+					[
+						"vers",
+						19
+					]
+				],
+				"item_class": "weapon",
+				"item_subclass": "warglaives",
+				"type": "one-hand"
+			}
+		],
+		"shield": [
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_shield_1h_oribosdungeon_c_01.jpg",
+				"location": "Mist of Tirna Scithe",
+				"name": "Acidslough Bulwark",
+				"statList": [
+					[
+						"INTELLECT",
+						66
+					],
+					[
+						"STRENGTH",
+						22
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"haste",
+						18
+					],
+					[
+						"mastery",
+						28
+					]
+				],
+				"item_class": "armor",
+				"item_subclass": "shield",
+				"type": "off hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_shield_1h_oribosdungeon_c_01.jpg",
+				"location": "The Necrotic Wake",
+				"name": "Encrusted Canopic Lid",
+				"statList": [
+					[
+						"INTELLECT",
+						66
+					],
+					[
+						"STRENGTH",
+						22
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"crit",
+						27
+					],
+					[
+						"vers",
+						19
+					]
+				],
+				"item_class": "armor",
+				"item_subclass": "shield",
+				"type": "off hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_shield_1h_oribosdungeon_c_01.jpg",
+				"location": "Theater of Pain",
+				"name": "Barricade of the Endless Empire",
+				"statList": [
+					[
+						"INTELLECT",
+						66
+					],
+					[
+						"STRENGTH",
+						22
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"crit",
+						17
+					],
+					[
+						"haste",
+						29
+					]
+				],
+				"item_class": "armor",
+				"item_subclass": "shield",
+				"type": "off hand"
+			}
+		],
+		"off-hand": [
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_offhand_1h_oribosdungeon_c_01.jpg",
+				"location": "Halls of Atonement",
+				"name": "Nathrian Tabernacle",
+				"statList": [
+					[
+						"INTELLECT",
+						66
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"crit",
+						19
+					],
+					[
+						"vers",
+						27
+					]
+				],
+				"item_class": "armor",
+				"item_subclass": "miscellaneous",
+				"type": "held in off-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_offhand_1h_oribosdungeon_c_01.jpg",
+				"location": "Sanguine Depths",
+				"name": "Vessel of Shining Radiance",
+				"statList": [
+					[
+						"INTELLECT",
+						66
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"crit",
+						29
+					],
+					[
+						"mastery",
+						17
+					]
+				],
+				"item_class": "armor",
+				"item_subclass": "miscellaneous",
+				"type": "held in off-hand"
+			},
+			{
+				"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_offhand_1h_oribosdungeon_c_01.jpg",
+				"location": "Theater of Pain",
+				"name": "Deathwalker's Promise",
+				"statList": [
+					[
+						"INTELLECT",
+						66
+					],
+					[
+						"STAMINA",
+						35
+					],
+					[
+						"haste",
+						30
+					],
+					[
+						"vers",
+						16
+					]
+				],
+				"item_class": "armor",
+				"item_subclass": "miscellaneous",
+				"type": "held in off-hand"
+			}
+		]
+	},
+	"miscellaneous": [
+		{
+			"ring": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_ring_ardenweald_02_green.jpg",
+					"location": "De Other Side",
+					"name": "Death God's Signet",
+					"statList": [
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"haste",
+							75
+						],
+						[
+							"mastery",
+							30
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "miscellaneous",
+					"type": "ring"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_ring_revendrethraid_01_gold.jpg",
+					"location": "Halls of Atonement",
+					"name": "Signet of the False Accuser",
+					"statList": [
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"haste",
+							32
+						],
+						[
+							"mastery",
+							74
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "miscellaneous",
+					"type": "ring"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_ring_maldraxxus_02_brown.jpg",
+					"location": "Plaguefall",
+					"name": "Arachnid Cipher Ring",
+					"statList": [
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"crit",
+							63
+						],
+						[
+							"haste",
+							42
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "miscellaneous",
+					"type": "ring"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_70_raid_ring5b.jpg",
+					"location": "Sanguine Depths",
+					"name": "Entwined Gorger Tendril",
+					"statList": [
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"crit",
+							62
+						],
+						[
+							"vers",
+							44
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "miscellaneous",
+					"type": "ring"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_argus_ring02.jpg",
+					"location": "The Necrotic Wake",
+					"name": "Stitchflesh's Misplaced Signet",
+					"statList": [
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"haste",
+							68
+						],
+						[
+							"vers",
+							38
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "miscellaneous",
+					"type": "ring"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_ring_revendreth_01_brown.jpg",
+					"location": "The Necrotic Wake",
+					"name": "Ritual Commander's Ring",
+					"statList": [
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"crit",
+							41
+						],
+						[
+							"vers",
+							65
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "miscellaneous",
+					"type": "ring"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_ring_maldraxxus_02_green.jpg",
+					"location": "Theater of Pain",
+					"name": "Ritual Bone Band",
+					"statList": [
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"vers",
+							72
+						],
+						[
+							"mastery",
+							33
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "miscellaneous",
+					"type": "ring"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_ring_maldraxxus_01_violet.jpg",
+					"location": "Theater of Pain",
+					"name": "Ring of Perpetual Conflict",
+					"statList": [
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"crit",
+							69
+						],
+						[
+							"mastery",
+							36
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "miscellaneous",
+					"type": "ring"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_jewelry_ring_45.jpg",
+					"location": "Theater of Pain",
+					"name": "Fleshfused Circle",
+					"statList": [
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"crit",
+							32
+						],
+						[
+							"mastery",
+							74
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "miscellaneous",
+					"type": "ring"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_ring_maldraxxus_01_red.jpg",
+					"location": "Theater of Pain",
+					"name": "Bloodoath Signet",
+					"statList": [
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"crit",
+							44
+						],
+						[
+							"haste",
+							62
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "miscellaneous",
+					"type": "ring"
+				}
+			],
+			"neck": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_7_0raid_necklace_03a.jpg",
+					"location": "Halls of Atonement",
+					"name": "Sin Stained Pendant",
+					"statList": [
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"haste",
+							75
+						],
+						[
+							"mastery",
+							30
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "miscellaneous",
+					"type": "neck"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_neck_ardenweald_01_silver.jpg",
+					"location": "Mist of Tirna Scithe",
+					"name": "Trailspinner Pendant",
+					"statList": [
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"crit",
+							39
+						],
+						[
+							"mastery",
+							66
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "miscellaneous",
+					"type": "neck"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_7_0raid_necklace_03a.jpg",
+					"location": "Spires of Ascension",
+					"name": "Azure-Venom Choker",
+					"statList": [
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"crit",
+							71
+						],
+						[
+							"vers",
+							35
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "miscellaneous",
+					"type": "neck"
+				}
+			],
+			"back": [
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_cape_cloth_oribosdungeon_c_01.jpg",
+					"location": "De Other Side",
+					"name": "Dealer Xy'exa's Cape",
+					"statList": [
+						[
+							"INTELLECT",
+							24
+						],
+						[
+							"AGILITY",
+							24
+						],
+						[
+							"STRENGTH",
+							24
+						],
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"vers",
+							20
+						],
+						[
+							"mastery",
+							32
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "back"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_cape_mail_oribosdungeon_c_01.jpg",
+					"location": "Plaguefall",
+					"name": "Blighted Margrave's Cloak",
+					"statList": [
+						[
+							"INTELLECT",
+							24
+						],
+						[
+							"AGILITY",
+							24
+						],
+						[
+							"STRENGTH",
+							24
+						],
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"haste",
+							19
+						],
+						[
+							"vers",
+							34
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "back"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_plate_oribosdungeon_c_01_cape.jpg",
+					"location": "Sanguine Depths",
+					"name": "Cloak of Enveloping Manifestations",
+					"statList": [
+						[
+							"INTELLECT",
+							24
+						],
+						[
+							"AGILITY",
+							24
+						],
+						[
+							"STRENGTH",
+							24
+						],
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"crit",
+							32
+						],
+						[
+							"mastery",
+							20
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "back"
+				},
+				{
+					"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_cape_mail_oribosdungeon_c_01.jpg",
+					"location": "Spires of Ascension",
+					"name": "Drape of Twisted Loyalties",
+					"statList": [
+						[
+							"INTELLECT",
+							24
+						],
+						[
+							"AGILITY",
+							24
+						],
+						[
+							"STRENGTH",
+							24
+						],
+						[
+							"STAMINA",
+							40
+						],
+						[
+							"crit",
+							19
+						],
+						[
+							"haste",
+							34
+						]
+					],
+					"item_class": "armor",
+					"item_subclass": "cloth",
+					"type": "back"
+				}
+			],
+			"trinket": {
+				"tank": [
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_misc_scales_stonyorange.jpg",
+						"location": "De Other Side",
+						"name": "Blood-Spattered Scale",
+						"statList": [
+							[
+								"AGILITY",
+								41
+							],
+							[
+								"STRENGTH",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					},
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_misc_gem_bloodstone_01.jpg",
+						"location": "Halls of Atonement",
+						"name": "Pulsating Stoneheart",
+						"statList": [
+							[
+								"AGILITY",
+								41
+							],
+							[
+								"STRENGTH",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					},
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_misc_organ_01.jpg",
+						"location": "Plaguefall",
+						"name": "Slimy Consumptive Organ",
+						"statList": [
+							[
+								"STAMINA",
+								67
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					},
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/ability_xavius_nightmareblades.jpg",
+						"location": "Sanguine Depths",
+						"name": "Bladedancer's Armor Kit",
+						"statList": [
+							[
+								"AGILITY",
+								41
+							],
+							[
+								"STRENGTH",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					}
+				],
+				"healing": [
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_elemental_mote_nether.jpg",
+						"location": "Sanguine Depths",
+						"name": "Lingering Sunmote",
+						"statList": [
+							[
+								"INTELLECT",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					},
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_polearm_2h_bastionarchon_d_01.jpg",
+						"location": "Spires of Ascension",
+						"name": "Boon of the Archon",
+						"statList": [
+							[
+								"INTELLECT",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					},
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_enchanting_70_chaosshard.jpg",
+						"location": "The Necrotic Wake",
+						"name": "Siphoning Phylactery Shard",
+						"statList": [
+							[
+								"INTELLECT",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					},
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_trinket_maldraxxus_02_purple.jpg",
+						"location": "Theater of Pain",
+						"name": "Vial of Spectral Essence",
+						"statList": [
+							[
+								"INTELLECT",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					}
+				],
+				"agi": [
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_alchemy_83_alchemiststone02.jpg",
+						"location": "De Other Side",
+						"name": "Shadowgrasp Totem",
+						"statList": [
+							[
+								"AGILITY",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					},
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_misc_primitive_toy03.jpg",
+						"location": "Mist of Tirna Scithe",
+						"name": "Mistcaller Ocarina",
+						"statList": [
+							[
+								"AGILITY",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					},
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_battery_01.jpg",
+						"location": "Spires of Ascension",
+						"name": "Overcharged Anima Battery",
+						"statList": [
+							[
+								"AGILITY",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					},
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_alchemy_70_potion2.jpg",
+						"location": "The Necrotic Wake",
+						"name": "Bottled Flayedwing Toxin",
+						"statList": [
+							[
+								"AGILITY",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					},
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_alchemy_elixir_03.jpg",
+						"location": "Plaguefall",
+						"name": "Infinitely Divisible Ooze",
+						"statList": [
+							[
+								"INTELLECT",
+								41
+							],
+							[
+								"AGILITY",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					}
+				],
+				"str": [
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/spell_mage_focusingcrystal.jpg",
+						"location": "De Other Side",
+						"name": "Overwhelming Power Crystal",
+						"statList": [
+							[
+								"STRENGTH",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					},
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_trinket_oribos_01_silver.jpg",
+						"location": "Spires of Ascension",
+						"name": "Anima Field Emitter",
+						"statList": [
+							[
+								"STRENGTH",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					},
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_archaeology_70_tauren_moosebonefishhook.jpg",
+						"location": "The Necrotic Wake",
+						"name": "Spare Meat Hook",
+						"statList": [
+							[
+								"STRENGTH",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					},
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_misc_organ_04.jpg",
+						"location": "Theater of Pain",
+						"name": "Viscera of Coalesced Hatred",
+						"statList": [
+							[
+								"STRENGTH",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					}
+				],
+				"int_dps": [
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/spell_animabastion_orb.jpg",
+						"location": "Spires of Ascension",
+						"name": "Empyreal Ordnance",
+						"statList": [
+							[
+								"mastery",
+								66
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					},
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_misc_coinbag07.jpg",
+						"location": "The Necrotic Wake",
+						"name": "Satchel of Misbegotten Minions",
+						"statList": [
+							[
+								"INTELLECT",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					},
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_alchemy_elixir_03.jpg",
+						"location": "Plaguefall",
+						"name": "Infinitely Divisible Ooze",
+						"statList": [
+							[
+								"INTELLECT",
+								41
+							],
+							[
+								"AGILITY",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					}
+				],
+				"str_dps": [
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_trinket_maldraxxus_02_green.jpg",
+						"location": "Plaguefall",
+						"name": "Phial of Putrefaction",
+						"statList": [
+							[
+								"AGILITY",
+								41
+							],
+							[
+								"STRENGTH",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					}
+				],
+				"melee_dps": [
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_misc_book_01.jpg",
+						"location": "Theater of Pain",
+						"name": "Grim Codex",
+						"statList": [
+							[
+								"AGILITY",
+								41
+							],
+							[
+								"STRENGTH",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					}
+				],
+				"agi_dps": [
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_trinket_maldraxxus_02_green.jpg",
+						"location": "Plaguefall",
+						"name": "Phial of Putrefaction",
+						"statList": [
+							[
+								"AGILITY",
+								41
+							],
+							[
+								"STRENGTH",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					}
+				],
+				"int": [
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_jewelcrafting_nightseye_01.jpg",
+						"location": "Halls of Atonement",
+						"name": "Sunblood Amethyst",
+						"statList": [
+							[
+								"haste",
+								66
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					},
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_pet_spectralporcupinered.jpg",
+						"location": "Mist of Tirna Scithe",
+						"name": "Unbound Changeling",
+						"statList": [
+							[
+								"INTELLECT",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					},
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_trinket_revendreth_02_red.jpg",
+						"location": "Sanguine Depths",
+						"name": "Overflowing Anima Cage",
+						"statList": [
+							[
+								"INTELLECT",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					},
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_jewelcrafting_livingruby_01.jpg",
+						"location": "Theater of Pain",
+						"name": "Soulletting Ruby",
+						"statList": [
+							[
+								"INTELLECT",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					}
+				],
+				"all": [
+					{
+						"icon": "https://render-us.worldofwarcraft.com/icons/56/inv_trinket_80_titan02a.jpg",
+						"location": "De Other Side",
+						"name": "Inscrutable Quantum Device",
+						"statList": [
+							[
+								"INTELLECT",
+								41
+							],
+							[
+								"AGILITY",
+								41
+							],
+							[
+								"STRENGTH",
+								41
+							]
+						],
+						"item_class": "armor",
+						"item_subclass": "miscellaneous",
+						"type": "trinket"
+					}
+				]
+			}
+		}
+	]
+}
